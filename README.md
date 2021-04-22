@@ -1,1 +1,1 @@
-# erformance-Analysis-and-Success-Estimation-of-Schools-with-Machine-Learning-
+# Performance-Analysis-and-Success-Estimation-of-Schools-with-Machine-Learning-
